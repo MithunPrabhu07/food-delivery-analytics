@@ -1,0 +1,4 @@
+-r requirements.txt
+ipykernel>=6.25
+ipython>=8.12
+jupyterlab>=4.0
